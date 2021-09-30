@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Topics/Conditional statement/Chocolate/out/
+/Topics/Conditional statement/Chocolate/out/production/classes/
